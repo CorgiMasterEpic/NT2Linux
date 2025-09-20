@@ -1,5 +1,5 @@
 #!/bin/bash
-# UltimateFileFixer - Fix allthe little annoyances in your files
+# UltimateFileFixer/NT2Linux - Fix allthe little annoyances in your files
 # Powered by CorgiMasterEpic 🐕✨
 set -e
 
